@@ -2,7 +2,7 @@
   "GuideData": {
     "AdsController": 
       {
-        "NetworkAds": "admob",
+        "NetworkAds": "max",
 
         "BannerAdmob": "ca-app-pub-4731965677322580/7655963621",
         "InterstitialAdmob": "ca-app-pub-4731965677322580/2502326407",
