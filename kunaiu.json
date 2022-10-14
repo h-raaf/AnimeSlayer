@@ -4,7 +4,7 @@
       {
 		  
         "BannerAd": "max",
-	"InterstitialAd": "max",
+	"InterstitialAd": "admob",
         "NativeAd": "max",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
@@ -22,7 +22,7 @@
 		"unity_banner": "banner",
 		"unity_interstitial": "video",
 		
-        "Cpa": false,
+        "Cpa": true,
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
         "LinkCpa" : "https://cpabuild.com/"
 
