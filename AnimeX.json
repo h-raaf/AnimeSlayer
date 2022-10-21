@@ -10,9 +10,9 @@
 			"InterAdmob": "ca-app-pub-3940256099942544/1033173712",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
-			"MaxBanner": "YOUR_AD_UNIT_ID",
-			"MaxInter": "YOUR_AD_UNIT_ID",
-			"MaxNative": "YOUR_AD_UNIT_ID",
+			"MaxBanner": "3a6c94f5be69ef73",
+			"MaxInter": "58bde831c5ced303",
+			"MaxNative": "0a4adf36fdf870b5",
 
 			"ironsource_appKey": "1011dee21",
 
@@ -21,7 +21,7 @@
 			"unity_banner": "banner",
 			"unity_interstitial": "video",
 
-			"Cpa": true,
+			"Cpa": false,
 			"ImageUrl": "https://i.postimg.cc/Bbx6m3xC/img.jpg",
 			"LinkCpa": "https://freefire-ffdiamonds.netlify.app/"
 
